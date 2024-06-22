@@ -1123,6 +1123,65 @@ span {
     .services-container {
         grid-template-columns: repeat(1, 1fr);
     }
+
+
+
+
+
+    .service-box {
+        height: 350px;
+        width: 300px;
+        margin-left: -25px;
+        
+    }
+
+
+
+    .service-box .service-info {
+        
+        padding: 3rem 1rem;
+    }
+    
+    .service-info h4 {
+        font-size: 3rem;
+        font-weight: 800;
+        line-height: 2;
+    }
+
+    .service-box h4{
+        font-size: 2rem;
+    }
+    .navbar {
+        width: 100%;
+    }
+    .testimonials .heading {
+        margin-bottom: 5rem;
+        font-size: 5rem;
+    }
+    .projects h2,.shopify-projects h2{
+        font-size: 6rem;
+    }
+    .coursework h2{
+        font-size: 6rem;
+    }
+    .education h2 {
+        margin-bottom: 5rem;
+        font-size: 6rem;
+    }
+    .services h2{
+        font-size: 6rem;
+        margin-bottom: 5rem;}
+    .contact h2{
+        font-size: 6rem;
+    }
+    .skills h2{
+        font-size: 6rem;
+    }
+    .home-img img{
+        margin-top: 5rem;
+        margin-bottom: -50px;
+        
+    }
 }
 
 @media (max-width: 600px) {
@@ -1137,7 +1196,7 @@ span {
     }
     .service-box {
         height: 350px;
-        width: 450px;
+        width: 300px;
         margin-left: -25px;
         
     }
