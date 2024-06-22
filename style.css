@@ -1137,7 +1137,7 @@ span {
     }
     .service-box {
         height: 350px;
-        width: 300px;
+        width: 450px;
         margin-left: -25px;
         
     }
@@ -1163,7 +1163,7 @@ span {
     }
     .testimonials .heading {
         margin-bottom: 5rem;
-        font-size: 6rem;
+        font-size: 5rem;
     }
     .projects h2,.shopify-projects h2{
         font-size: 6rem;
